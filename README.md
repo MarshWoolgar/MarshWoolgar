@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![image](Marsh.jpg)
+![image](Marsh.PNG)
 
 ## Hey there  my names Marsh and im a Front End Student living in Norway!
 ## Ive been studying front end for a little over a year now, learning about HTML, CSS and Javascript. 
